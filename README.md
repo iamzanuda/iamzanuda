@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Yaroslav, I’m backend developer.
+### Hi there 👋 my name is Yaroslav, I’m a backend developer.
 
 <!--
 **iamzanuda/iamzanuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
