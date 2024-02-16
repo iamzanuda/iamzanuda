@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📫 How to reach me: yrslvb@gmail.com
+- 📫 How to reach me:
+  + email: yrslvb@gmail.com
+  + Telegram: @mralmostfreeman
