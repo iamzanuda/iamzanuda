@@ -19,4 +19,4 @@ Here are some ideas to get you started:
   + email: yrslvb@gmail.com
   + Telegram: @mralmostfreeman
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/iamzanuda)
+![Leetcode Stats](https://leetcard.jacoblin.cool/iamzanuda?width=700&height=500)
