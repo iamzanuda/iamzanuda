@@ -6,4 +6,4 @@ I'm a backend developer.
   + Email: yrslvb@gmail.com
   + Telegram: @mralmostfreeman
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/iamzanuda)
+<--![Leetcode Stats](https://leetcard.jacoblin.cool/iamzanuda)-->
