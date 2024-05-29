@@ -4,6 +4,6 @@ I'm a backend developer.
 
 - 📫 How to reach me:
   + Email: yrslvb@gmail.com
-  + Telegram: @mralmostfreeman
+  + Telegram: @mralmostfreema
 
 <!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/iamzanuda) -->
