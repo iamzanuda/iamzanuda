@@ -1,7 +1,3 @@
-<html lang="en">
-<head>
-    <link rel="stylesheet" href="styles.css">
-</head>
 <body>
     <div class="container">
         <h1 align="center">Yaroslav Baramykov</h1>
@@ -11,7 +7,7 @@
         </p>
         <h3 align="center">How to reach me</h3>
         <p align="center" class="contact-icons">
-            <a href="yrslvb@gmail.com" target="_blank">
+            <a href="mailto:yrslvb@gmail.com" target="_blank">
                 <img align="center" src="assets/gmail.png" alt="mail" height="50" width="55" />
             </a>
             &nbsp;&nbsp;&nbsp;
@@ -22,4 +18,5 @@
     </div>
 </body>
 </html>
+
 <!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/iamzanuda) -->
