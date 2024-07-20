@@ -4,14 +4,14 @@
 </head>
 <body>
     <div class="container">
-        <h1 align="center">Baramykov Yaroslav</h1>
+        <h1 align="center">Yaroslav Baramykov</h1>
         <h3 align="center">I'm a backend developer.</h3>
         <p align="center">
             <img width="1000" src="assets/github-snake.svg" alt="snake"/>
         </p>
         <h3 align="center">How to reach me</h3>
         <p align="center" class="contact-icons">
-            <a href="mailto:yrslvb@gmail.com" target="_blank">
+            <a href="yrslvb@gmail.com" target="_blank">
                 <img align="center" src="assets/gmail.png" alt="mail" height="50" width="55" />
             </a>
             &nbsp;&nbsp;&nbsp;
