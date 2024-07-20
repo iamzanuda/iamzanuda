@@ -1,13 +1,25 @@
-# Hi, I'm Yaroslav! 👋
-
-I'm a backend developer.
-
-- 📫 How to reach me:
-  + Email: yrslvb@gmail.com
-  + Telegram: @mralmostfreeman
-
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1 align="center">Baramykov Yaroslav</h1>
+        <h3 align="center">I'm a backend developer.</h3>
+        <p align="center">
+            <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+        </p>
+        <h3 align="center">How to reach me</h3>
+        <p align="center" class="contact-icons">
+            <a href="mailto:yrslvb@gmail.com" target="_blank">
+                <img align="center" src="assets/gmail.png" alt="mail" height="50" width="55" />
+            </a>
+            &nbsp;&nbsp;&nbsp;
+            <a href="https://t.me/mralmostfreeman" target="_blank">
+                <img align="center" src="assets/telegram.png" alt="Telegram" height="45" width="50" />
+            </a>
+        </p>
+    </div>
+</body>
+</html>
 <!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/iamzanuda) -->
-
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
