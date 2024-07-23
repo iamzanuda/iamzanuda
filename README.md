@@ -1,6 +1,6 @@
 <body>
     <div class="container">
-        <h1 align="center">Yaroslav Baramykov</h1>
+        <h1 align="center">Hi There!</h1>
         <h3 align="center">I'm a backend developer</h3>
         <p align="center">
             <img width="1000" src="assets/github-snake.svg" alt="snake"/>
